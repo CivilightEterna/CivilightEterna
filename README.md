@@ -8,7 +8,9 @@ Currently, I'm learning C++, Java, Python, and computer fundamentals.
 I'm passionate about backend development and reverse engineering, and I hope to participate in open-source projects to learn from the community and improve my skills.
 
 💻 Interests: Backend Development · Reverse Engineering · Open Source
+
 📚 Currently Learning: C++, Java, Python, Computer Fundamentals
+
 🎯 Goal: Keep learning, keep building, and become a better developer
 
 “Every expert was once a beginner — and I’m just getting started!
