@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--仓库状态统计-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/CivilightEternaapianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CivilightEterna)](https://github.com/anuraghazra/github-readme-stats)
+<!---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CivilightEterna&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
